@@ -1,0 +1,41 @@
+body {
+  color: #000008;
+  font-family: arial;
+  font-weight: bolder;
+  font-size: 25px;
+}
+
+.poster {
+  background: #ed291b;
+  height: 1140px;
+  width: 816px;
+  text-align: right;
+  letter-spacing: -0.7px;
+  overflow: hidden;
+  position: absolute;
+}
+
+.big {
+  font-size: 35em;
+  margin-top: -320px;
+  margin-left: 14px;
+  letter-spacing: -30px;
+}
+
+.text {
+  padding-top: 55px;
+  padding-right: 45px;
+}
+
+.white {
+ color: #dee0d4;
+ float: left;
+}
+
+.lol {
+ float: right;
+ margin-left: -200px;
+ margin-top: -2400px;
+ position: relative;
+}
+  
